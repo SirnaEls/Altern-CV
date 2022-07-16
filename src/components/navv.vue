@@ -30,7 +30,8 @@ img {
 .navvbar{
   display: flex;
   justify-content: space-between;
-  margin-right: 140px;
+  padding-right: 140px;
+  padding-left: 40px;
   margin-top: 20px;
   box-sizing: border-box;
 }
